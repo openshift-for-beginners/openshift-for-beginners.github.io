@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Role Play 1: Choosing an OpenShift Setup"
-permalink: /03-getting-started-openshift/role-play-01/
+permalink: /03-getting-started-openshift/role-play-01-choosing-openshift-setup/
 ---
 
 # Role Play: Choosing an OpenShift Setup
@@ -22,5 +22,5 @@ A teammate, Sarah, wants to start developing a Python application. She asks for 
 ---
 
 ## Navigation
-- [← Previous: UI Overview]({{ site.baseurl }}/03-getting-started-openshift/ui-overview/)
-- [Next: Quiz →]({{ site.baseurl }}/03-getting-started-openshift/quiz/)
+- [← Previous: UI Overview]({{ site.baseurl }}/03-getting-started-openshift/lecture-09-openshift-ui-overview/)
+- [Next: Quiz →]({{ site.baseurl }}/03-getting-started-openshift/lecture-10-quiz-getting-started-with-openshift/)

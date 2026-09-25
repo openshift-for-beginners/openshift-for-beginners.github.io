@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Knowledge Check"
-permalink: /03-getting-started-openshift/quiz/
+permalink: /03-getting-started-openshift/lecture-10-quiz-getting-started-with-openshift/
 ---
 
 # Knowledge Check: Getting Started

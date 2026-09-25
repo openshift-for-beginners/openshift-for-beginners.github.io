@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Interaction Tools: Web Console and CLI"
-permalink: /03-getting-started-openshift/web-console-cli-basics/
+permalink: /03-getting-started-openshift/lecture-08-web-and-cli-templates-yaml-containers/
 ---
 
 # Web Console and CLI Basics
@@ -29,5 +29,5 @@ The `oc` tool is a command-line utility used to interact with the cluster API. I
 ---
 
 ## Navigation
-- [← Previous: Developer Sandbox]({{ site.baseurl }}/03-getting-started-openshift/developer-sandbox/)
-- [Next: UI Overview →]({{ site.baseurl }}/03-getting-started-openshift/ui-overview/)
+- [← Previous: Developer Sandbox]({{ site.baseurl }}/03-getting-started-openshift/lecture-07-install-single-node-using-sandbox/)
+- [Next: UI Overview →]({{ site.baseurl }}/03-getting-started-openshift/lecture-09-openshift-ui-overview/)

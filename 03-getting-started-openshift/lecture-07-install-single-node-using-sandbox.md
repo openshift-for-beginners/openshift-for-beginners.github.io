@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Red Hat Developer Sandbox"
-permalink: /03-getting-started-openshift/developer-sandbox/
+permalink: /03-getting-started-openshift/lecture-07-install-single-node-using-sandbox/
 ---
 
 # Red Hat Developer Sandbox
@@ -22,5 +22,5 @@ The **Developer Sandbox** is a "zero-install" way to learn OpenShift.
 ---
 
 ## Navigation
-- [← Previous: OpenShift Local]({{ site.baseurl }}/03-getting-started-openshift/openshift-local-crc/)
-- [Next: Web Console & CLI →]({{ site.baseurl }}/03-getting-started-openshift/web-console-cli-basics/)
+- [← Previous: OpenShift Local]({{ site.baseurl }}/03-getting-started-openshift/lecture-06-install-single-node-using-crc/)
+- [Next: Web Console & CLI →]({{ site.baseurl }}/03-getting-started-openshift/lecture-08-web-and-cli-templates-yaml-containers/)

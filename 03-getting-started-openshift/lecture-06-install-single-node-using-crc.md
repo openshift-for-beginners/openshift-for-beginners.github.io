@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Local Setup: OpenShift Local (CRC)"
-permalink: /03-getting-started-openshift/openshift-local-crc/
+permalink: /03-getting-started-openshift/lecture-06-install-single-node-using-crc/
 ---
 
 # OpenShift Local (CodeReady Containers)
@@ -28,5 +28,5 @@ permalink: /03-getting-started-openshift/openshift-local-crc/
 ---
 
 ## Navigation
-- [← Previous: Installation Methods]({{ site.baseurl }}/03-getting-started-openshift/installation-methods/)
-- [Next: Developer Sandbox →]({{ site.baseurl }}/03-getting-started-openshift/developer-sandbox/)
+- [← Previous: Installation Methods]({{ site.baseurl }}/03-getting-started-openshift/lecture-05-openshift-installation-methods/)
+- [Next: Developer Sandbox →]({{ site.baseurl }}/03-getting-started-openshift/lecture-07-install-single-node-using-sandbox/)

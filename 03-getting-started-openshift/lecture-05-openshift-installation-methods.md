@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OpenShift Installation Methods"
-permalink: /03-getting-started-openshift/installation-methods/
+permalink: /03-getting-started-openshift/lecture-05-openshift-installation-methods/
 ---
 
 # OpenShift Installation Methods
@@ -30,4 +30,4 @@ OpenShift can be deployed in various environments depending on the use case (dev
 
 ## Navigation
 - [← Back to Section Index]({{ site.baseurl }}/03-getting-started-openshift/)
-- [Next: OpenShift Local (CRC) →]({{ site.baseurl }}/03-getting-started-openshift/openshift-local-crc/)
+- [Next: OpenShift Local (CRC) →]({{ site.baseurl }}/03-getting-started-openshift/lecture-06-install-single-node-using-crc/)
