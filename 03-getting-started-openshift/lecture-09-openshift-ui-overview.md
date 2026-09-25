@@ -24,4 +24,4 @@ The OpenShift console is designed for two distinct roles.
 
 ## Navigation
 - [← Previous: Web Console & CLI]({{ site.baseurl }}/03-getting-started-openshift/lecture-08-web-and-cli-templates-yaml-containers/)
-- [Next: Role Play →]({{ site.baseurl }}/03-getting-started-openshift/role-play-01/)
+- [Next: Role Play →]({{ site.baseurl }}/03-getting-started-openshift/role-play-01-choosing-openshift-setup/)

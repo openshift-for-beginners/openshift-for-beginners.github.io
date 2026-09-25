@@ -10,13 +10,14 @@ This section transitions from theory to practice. We explore the different ways 
 
 ## Topics covered
 
-1. [OpenShift Installation Methods]({{ site.baseurl }}/03-getting-started-openshift/lecture-05-openshift-installation-methods/)
-2. [Local Setup: OpenShift Local (formerly CRC)]({{ site.baseurl }}/03-getting-started-openshift/lecture-06-install-single-node-using-crc/)
-3. [Cloud Access: Red Hat Developer Sandbox]({{ site.baseurl }}/03-getting-started-openshift/lecture-07-install-single-node-using-sandbox/)
-4. [Interaction Tools: Web Console and CLI]({{ site.baseurl }}/03-getting-started-openshift/lecture-08-web-and-cli-templates-yaml-containers/)
-5. [OpenShift UI Overview]({{ site.baseurl }}/03-getting-started-openshift/lecture-09-openshift-ui-overview/)
-6. [Role Play: Choosing a Cluster Setup]({{ site.baseurl }}/03-getting-started-openshift/role-play-01-choosing-openshift-setup//)
-7. [Knowledge Check: Getting Started]({{ site.baseurl }}/03-getting-started-openshift/quiz/)
+1. [Lecture 5: OpenShift Installation Methods]({{ site.baseurl }}/03-getting-started-openshift/lecture-05-openshift-installation-methods/)
+2. [Lecture 6: Install Single Node using CRC]({{ site.baseurl }}/03-getting-started-openshift/lecture-06-install-single-node-using-crc/)
+3. [Lecture 7: Install Single Node using Sandbox]({{ site.baseurl }}/03-getting-started-openshift/lecture-07-install-single-node-using-sandbox/)
+4. [Lecture 8: Web and CLI - Templates, YAML, Containers]({{ site.baseurl }}/03-getting-started-openshift/lecture-08-web-and-cli-templates-yaml-containers/)
+5. [Lecture 9: OpenShift UI Overview]({{ site.baseurl }}/03-getting-started-openshift/lecture-09-openshift-ui-overview/)
+6. [Lecture 10: Quiz - Getting Started with OpenShift]({{ site.baseurl }}/03-getting-started-openshift/lecture-10-quiz-getting-started-with-openshift/)
+7. [Role Play 1: Choosing an OpenShift Setup]({{ site.baseurl }}/03-getting-started-openshift/role-play-01-choosing-openshift-setup/)
+
 
 ---
 
