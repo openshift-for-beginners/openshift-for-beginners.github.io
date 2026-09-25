@@ -59,7 +59,7 @@ Wrap-up topics and supporting concepts such as source control and CI/CD fundamen
 ## Quick Links
 
 - [Resources](/resources/)
-- [Progress Tracker](/progress/)
+- [Progress Tracker]({{ site.baseurl }}/progress/)
 
 ---
 
