@@ -9,7 +9,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.md
   - resources.md
   - progress.md
 
