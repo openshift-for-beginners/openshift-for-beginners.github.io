@@ -1,13 +1,13 @@
 title: OpenShift for Beginners
-description: My personal learning notes & website for the Udemy course
-baseurl: "/openshift-for-beginners"
-url: "https://yourusername.github.io"
+description: Personal learning notes and hands-on documentation for OpenShift
+url: "https://openshift-for-beginners.github.io"
+baseurl: ""
 
-theme: minima                  # Clean, lightweight, easy to customize
+theme: minima
+
 plugins:
   - jekyll-feed
 
-# Navigation (appears in header)
 header_pages:
   - index.md
   - 01-introduction/index.md
@@ -22,5 +22,5 @@ header_pages:
   - resources.md
   - progress.md
 
-# Optional: nice permalinks
-permalink: /:categories/:title/
+markdown: kramdown
+permalink: pretty
