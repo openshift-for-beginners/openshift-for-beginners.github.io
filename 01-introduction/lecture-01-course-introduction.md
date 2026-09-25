@@ -108,6 +108,6 @@ I can use this section to define my own goals for the repo.
 
 This lecture introduces the course roadmap and sets expectations. It helps me understand how the learning journey is organized and what skills I will build step by step.
 
-## Next Lecture
-
-Continue to: [Lecture 2: OpenShift Introduction](./lecture-02-openshift-introduction/)
+## Navigation
+- [← Back to Section Index]({{ site.baseurl }}/01-introduction/)
+- [Next Topic: OpenShift Overview →]({{ site.baseurl }}/01-introduction/lecture-02-openshift-introduction/)

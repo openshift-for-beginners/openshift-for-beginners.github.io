@@ -183,6 +183,7 @@ An OpenShift organizational boundary for resources, similar to a namespace.
 
 OpenShift is an enterprise container platform built on Kubernetes. It helps teams build, deploy, secure, and manage applications more efficiently by adding platform services and developer-friendly workflows on top of Kubernetes.
 
-## Next Step
-
-Continue to the next section on Docker and Kubernetes prerequisites.
+## Navigation
+- [← Previous: Learning Path Overview]({{ site.baseurl }}/01-introduction/lecture-01-course-introduction/)
+- [Back to Section Index]({{ site.baseurl }}/01-introduction/)
+- [Next Section: Docker & Kubernetes Prerequisites →]({{ site.baseurl }}/02-pre-requisites-docker-kubernetes/)
