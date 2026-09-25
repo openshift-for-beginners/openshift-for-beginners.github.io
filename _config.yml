@@ -1,0 +1,26 @@
+title: OpenShift for Beginners
+description: My personal learning notes & website for the Udemy course
+baseurl: "/openshift-for-beginners"
+url: "https://yourusername.github.io"
+
+theme: minima                  # Clean, lightweight, easy to customize
+plugins:
+  - jekyll-feed
+
+# Navigation (appears in header)
+header_pages:
+  - index.md
+  - 01-introduction/index.md
+  - 02-pre-requisites-docker-kubernetes/index.md
+  - 03-getting-started-openshift/index.md
+  - 04-openshift-concepts-projects-users/index.md
+  - 05-concepts-builds-deployments/index.md
+  - 06-networks-services-routes-scaling/index.md
+  - 07-storage-templates-catalog/index.md
+  - 08-openshift-security/index.md
+  - 09-conclusion-appendix/index.md
+  - resources.md
+  - progress.md
+
+# Optional: nice permalinks
+permalink: /:categories/:title/
